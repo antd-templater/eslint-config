@@ -13,6 +13,27 @@
 
 - Usage
 
+  a. Using (default)
+
+  ```typescript
+    import templater from '@antd-templater/eslint-config'
+
+    export default [
+      ......templater.configs['flat/recommended'],
+
+      // eg. ....
+      {
+        {
+          rules: {
+            // Custom rules
+          }
+        }
+      }
+    ]
+  ```
+
+  b. Using by tseslint
+
   ```typescript
     import tseslint from 'typescript-eslint'
     import templater from '@antd-templater/eslint-config'
