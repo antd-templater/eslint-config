@@ -3,7 +3,7 @@ import { defineConfig } from 'tsup'
 export default defineConfig([
   {
     entry: [
-      'src/config/library-3.x.ts',
+      'src/configs/library-3.x.ts',
       'src/meta.ts',
     ],
     format: ['cjs', 'esm'],

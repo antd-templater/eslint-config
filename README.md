@@ -19,7 +19,7 @@
     import templater from '@antd-templater/eslint-config'
 
     export default [
-      ......templater.configs['flat/recommended'],
+      ...templater.configs['flat/recommended'],
 
       // eg. ....
       {
@@ -35,15 +35,10 @@
   b. Using by tseslint
 
   ```typescript
-    import tseslint from 'typescript-eslint'
-    import templater from '@antd-templater/eslint-config'
+  import tseslint from "typescript-eslint";
+  import templater from "@antd-templater/eslint-config";
 
-    export default tseslint.config(
-      {
-        extends: [
-          ...templater.configs['flat/recommended'],
-        ],
-      }
-    )
+  export default tseslint.config({
+    extends: [...templater.configs["flat/recommended"]],
+  });
   ```
-
