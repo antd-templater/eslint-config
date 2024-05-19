@@ -3,6 +3,7 @@ const Apis = {
   formGridDefiner: false,
   formRulesDefiner: false,
   formGroupsDefiner: false,
+  iconOptionsDefiner: false,
   tableScrollDefiner: false,
   tableStickyDefiner: false,
   tableSourcesDefiner: false,
