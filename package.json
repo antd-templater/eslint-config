@@ -37,15 +37,15 @@
     "eslint": "npx eslint --fix --quiet src/**"
   },
   "devDependencies": {
-    "@eslint/config-inspector": "^0.4.10",
-    "@eslint/js": "^9.4.0",
-    "@stylistic/eslint-plugin": "^2.1.0",
+    "@eslint/config-inspector": "^0.4.11",
+    "@eslint/js": "^9.5.0",
+    "@stylistic/eslint-plugin": "^2.2.0",
     "@types/eslint": "^8.56.10",
-    "@types/node": "^20.13.0",
-    "eslint": "^9.4.0",
-    "tsup": "^8.0.2",
+    "@types/node": "^20.14.2",
+    "eslint": "^9.5.0",
+    "tsup": "^8.1.0",
     "typescript": "^5.4.5",
-    "typescript-eslint": "^7.11.0"
+    "typescript-eslint": "^7.13.0"
   },
   "engines": {
     "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
