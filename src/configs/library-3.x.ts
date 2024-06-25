@@ -4,6 +4,7 @@ const Apis = {
   formRulesDefiner: false,
   formGroupsDefiner: false,
   iconOptionsDefiner: false,
+  tableSorterDefiner: false,
   tableScrollDefiner: false,
   tableStickyDefiner: false,
   tableSourcesDefiner: false,
