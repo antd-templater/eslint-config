@@ -4,7 +4,7 @@
   "homepage": "https://github.com/antd-templater/eslint-config",
   "author": "lin pengteng <china.linpengteng@gmail.com>",
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "eslint-config"
   ],
@@ -41,11 +41,11 @@
     "@eslint/js": "^9.6.0",
     "@stylistic/eslint-plugin": "^2.3.0",
     "@types/eslint": "^8.56.10",
-    "@types/node": "^20.14.9",
+    "@types/node": "^20.14.10",
     "eslint": "^9.6.0",
     "tsup": "^8.1.0",
     "typescript": "^5.5.3",
-    "typescript-eslint": "^7.15.0"
+    "typescript-eslint": "^7.16.0"
   },
   "engines": {
     "node": "^18.18.0 || ^20.9.0 || >=21.1.0"

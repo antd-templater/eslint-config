@@ -32,7 +32,7 @@ const Apis = {
   treeEmitExpandDefiner: false,
   treeEmitChangeDefiner: false,
   treeDropHandlerDefiner: false,
-  treeReplaceFieldsDefiner: false,
+  treeFieldNamesDefiner: false,
 }
 
 const Types = {
