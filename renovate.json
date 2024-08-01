@@ -4,5 +4,8 @@
     "config:base",
     "group:allNonMajor"
   ],
+  "schedule": [
+    "at 10:00 am on friday"
+  ],
   "rangeStrategy": "bump"
 }
