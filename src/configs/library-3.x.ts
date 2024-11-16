@@ -36,6 +36,7 @@ const Apis = {
 }
 
 const Types = {
+  SEditCellAutoComplete: false,
   SEditCellDatePicker: false,
   SEditCellInput: false,
   SEditCellPanelMode: false,
