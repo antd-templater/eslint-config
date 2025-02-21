@@ -38,14 +38,14 @@
   },
   "devDependencies": {
     "@eslint/config-inspector": "^1.0.0",
-    "@eslint/js": "^9.18.0",
-    "@stylistic/eslint-plugin": "^2.13.0",
+    "@eslint/js": "^9.20.0",
+    "@stylistic/eslint-plugin": "^4.0.1",
     "@types/eslint": "^9.6.1",
-    "@types/node": "^22.10.7",
-    "eslint": "^9.18.0",
-    "tsup": "^8.3.5",
+    "@types/node": "^22.13.4",
+    "eslint": "^9.20.1",
+    "tsup": "^8.3.6",
     "typescript": "^5.7.3",
-    "typescript-eslint": "^8.21.0"
+    "typescript-eslint": "^8.24.1"
   },
   "engines": {
     "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
